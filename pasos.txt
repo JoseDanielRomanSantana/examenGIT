@@ -1,0 +1,8 @@
+1- Nos conectamos a gitHub
+2- Hacemos un commit de los ficheros 
+3- Creamos una nueva rama
+4- Nos cambiamos a esa rama y creamos el archivo git.html
+5- Añadimos los cambios a la zona de intercambio
+6- Modificamos los cambios y añadimos nuestro correo
+7- Hacemos un commit y publicamos el archivo en el repositorio remoto
+8- Volvemos a la rama master.
